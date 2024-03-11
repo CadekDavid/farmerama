@@ -1,4 +1,6 @@
-public class Potato extends Flower {
+public final class Potato extends Flower {
 
 
-}
+
+
+ }
